@@ -61,7 +61,7 @@
     "eventemitter2": "0.4.x",
     "fast-json-patch": "0.5.x",
     "filed": "0.1.x",
-    "gcloud": "^0.10.0",
+    "gcloud": "^0.30.0",
     "ip": "0.3.x",
     "lodash": "^3.10.1",
     "mime": "1.2.x",
